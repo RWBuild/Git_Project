@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ben
+                    Ben and Dan are both designers.
                 </div>
 
                 <div class="links">
